@@ -135,7 +135,7 @@ Building AI-powered products, solving DSA, and exploring Generative AI.
 
 <p>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/prakharmav1">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
