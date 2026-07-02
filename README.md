@@ -2,7 +2,7 @@
 <h3 align="center">AI • Machine Learning • Data Science • Full Stack Developer</h3>
 
 <p align="center">
-Building AI-powered products, solving DSA, and exploring Generative AI.
+Building AI-powered products, solving DSA.
 </p>
 
 <p align="center">
