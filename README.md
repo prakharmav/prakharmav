@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakhar Raj</h1>
+<h1 align="center">Hi 👋, I'm Prakha Raj</h1>
 <h3 align="center">AI • Machine Learning • Data Science • Full Stack Developer</h3>
 
 <p align="center">
