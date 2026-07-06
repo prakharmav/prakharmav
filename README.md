@@ -42,7 +42,6 @@ Building AI-powered products, solving DSA.
 - NumPy
 - HuggingFace
 - LangChain
-- LlamaIndex
 - FAISS
 
 ### Web Development
