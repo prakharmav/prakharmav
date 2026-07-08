@@ -79,7 +79,7 @@ Building AI-powered products, solving DSA.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=prakharmav&theme=tokyonight" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Building AI-powered products, solving DSA.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prakharmav&theme=algolia&margin-w=10"/>
 
 </p>
 
@@ -98,22 +98,25 @@ Building AI-powered products, solving DSA.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakharmav&theme=tokyo-night"/>
 
 </p>
 
 ---
 
+
 # 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🤖 AI Interview Assistant | LLM-powered interview preparation platform |
-| 📈 Trade Assistant | AI-based trading checklist & analytics |
-| 🛒 Zepto Data Analysis | SQL + PostgreSQL Data Analytics |
-| 🎬 Movie Recommendation System | Content-Based Recommendation |
-| 🐶 Cats vs Dogs Classifier | CNN using TensorFlow |
-| 🌍 Carbon Footprint Platform | AI-powered sustainability web app |
+| 🌾 FarmUber | AI-powered agricultural equipment rental platform with real-time booking, KYC, payments, and crop disease detection |
+| 🌍 Carbon Footprint Platform | Full-stack sustainability platform for tracking and reducing carbon emissions with AI-powered insights |
+| 🤖 HireGraph AI | AI-powered interview preparation and resume analysis platform with personalized feedback |
+| 🛒 Zepto Data Analysis | End-to-end SQL & PostgreSQL data analytics project with business insights and KPI dashboards |
+| 🎬 Movie Recommendation System | Content-based recommendation engine built using Python, Pandas, and Scikit-learn |
+| 🐶 Cats vs Dogs Classifier | Deep learning image classifier using TensorFlow/Keras CNN achieving high classification accuracy |
+
+
 
 ---
 
