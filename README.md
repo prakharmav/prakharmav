@@ -30,35 +30,27 @@ Building AI-powered products, solving DSA.
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
 </p>
 
-### AI / ML
+### 🤖 AI / ML
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 </p>
 
-- PyTorch
-- Scikit-learn
-- Pandas
-- NumPy
-- OpenCV
-- Hugging Face Transformers
-- LangChain
-- FAISS
-- ChromaDB
-- Google Gemini API
-- OpenAI API
-- CNNs
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,opencv,huggingface,langchain" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FAISS-0096D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF4081?style=for-the-badge" />
+</p>
 ### Web Development
 
 <p>
