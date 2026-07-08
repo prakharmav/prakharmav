@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakha Raj</h1>
-<h3 align="center">AI • Machine Learning • Data Science • Full Stack Developer</h3>
+<h3 align="center">AI • Machine Learning • Full Stack Developer</h3>
 
 <p align="center">
 Building AI-powered products, solving DSA.
@@ -18,7 +18,7 @@ Building AI-powered products, solving DSA.
 - 💻 Solving DSA regularly on LeetCode
 - 🌱 Currently learning LLMs, RAG, Fine-tuning & AI Agents
 - 🚀 Building AI + Web Applications
-- 📫 Reach me: **your_email@gmail.com**
+- 📫 Reach me: **prakharraj45@gmail.com**
 
 ---
 
@@ -35,15 +35,30 @@ Building AI-powered products, solving DSA.
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
+### AI / ML
 
-- Scikit-Learn
-- OpenCV
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+- PyTorch
+- Scikit-learn
 - Pandas
 - NumPy
-- HuggingFace
+- OpenCV
+- Hugging Face Transformers
 - LangChain
 - FAISS
-
+- ChromaDB
+- Google Gemini API
+- OpenAI API
+- CNNs
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
 ### Web Development
 
 <p>
