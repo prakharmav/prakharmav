@@ -16,7 +16,7 @@ Building AI-powered products, solving DSA.
 - 🎓 B.Tech in Metallurgical & Materials Engineering, NIT Raipur
 - 🤖 Passionate about AI, Machine Learning & Generative AI
 - 💻 Solving DSA regularly on LeetCode
-- 🌱 Currently learning LLMs, RAG, Fine-tuning & AI Agents,finance
+- 🌱 Currently learning LLMs, RAG,   & AI Agents,finance
 - 🚀 Building AI + Web Applications
 - 📫 Reach me: **prakharraj45@gmail.com**
 
