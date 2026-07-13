@@ -133,7 +133,6 @@ Building AI-powered products, solving DSA.
 - AI Agents
 - RAG
 - LangGraph
-- MCP
 - Multi-Agent Systems
 - System Design
 - Kubernetes
